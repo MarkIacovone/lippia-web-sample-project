@@ -1,5 +1,7 @@
 # Lippia Web sample project
 
+<!--## HOLA MUNDO! ##--!>
+
 <!--## Architecture
 
 ![Lippia Architecture Web](docs/img/architecture_web_lippia.png)
